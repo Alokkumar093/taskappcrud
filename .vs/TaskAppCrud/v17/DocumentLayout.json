@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\repositories\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\repositories\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\repositories\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\repositories\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\repositories\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\repositories\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\repositories\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\repositories\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\repositories\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\repositories\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\repositories\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\repositories\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|c:\\users\\4lokk\\source\\repos\\taskappcrud\\taskappcrud\\models\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E814-EB55-4D78-91C8-89CC7FCC2814}|TaskAppCrud\\TaskAppCrud.csproj|solutionrelative:taskappcrud\\models\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Repositories\\UserService.cs",
+              "RelativeDocumentMoniker": "TaskAppCrud\\Repositories\\UserService.cs",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Repositories\\UserService.cs",
+              "RelativeToolTip": "TaskAppCrud\\Repositories\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:03:09.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Repositories\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskAppCrud\\Repositories\\TaskService.cs",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Repositories\\TaskService.cs",
+              "RelativeToolTip": "TaskAppCrud\\Repositories\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:02:54.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Repositories\\IUserService.cs",
+              "RelativeDocumentMoniker": "TaskAppCrud\\Repositories\\IUserService.cs",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Repositories\\IUserService.cs",
+              "RelativeToolTip": "TaskAppCrud\\Repositories\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:02:38.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Repositories\\ITaskService.cs",
+              "RelativeDocumentMoniker": "TaskAppCrud\\Repositories\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Repositories\\ITaskService.cs",
+              "RelativeToolTip": "TaskAppCrud\\Repositories\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:02:23.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Repositories\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "TaskAppCrud\\Repositories\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Repositories\\ICategoryService.cs",
+              "RelativeToolTip": "TaskAppCrud\\Repositories\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:02:08.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Repositories\\CategoryService.cs",
+              "RelativeDocumentMoniker": "TaskAppCrud\\Repositories\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Repositories\\CategoryService.cs",
+              "RelativeToolTip": "TaskAppCrud\\Repositories\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:01:44.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "TaskAppCrud\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Services\\UserService.cs",
+              "RelativeToolTip": "TaskAppCrud\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:59:48.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskAppCrud\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Services\\TaskService.cs",
+              "RelativeToolTip": "TaskAppCrud\\Services\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:59:33.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskAppCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\appsettings.json",
+              "RelativeToolTip": "TaskAppCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T05:39:06.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "TaskAppCrud\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Services\\IUserService.cs",
+              "RelativeToolTip": "TaskAppCrud\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:59:06.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Services\\ITaskService.cs",
+              "RelativeDocumentMoniker": "TaskAppCrud\\Services\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Services\\ITaskService.cs",
+              "RelativeToolTip": "TaskAppCrud\\Services\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:58:43.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "TaskAppCrud\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "TaskAppCrud\\Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:58:26.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "TaskAppCrud\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Services\\CategoryService.cs",
+              "RelativeToolTip": "TaskAppCrud\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:58:02.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TaskAppCrud\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TaskAppCrud\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:55:40.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskAppCrud\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskAppCrud\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:55:19.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "TaskAppCrud\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "TaskAppCrud\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:54:50.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TaskAppCrud\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Models\\User.cs",
+              "RelativeToolTip": "TaskAppCrud\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:48:29.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyTask.cs",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Models\\MyTask.cs",
+              "RelativeDocumentMoniker": "TaskAppCrud\\Models\\MyTask.cs",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Models\\MyTask.cs",
+              "RelativeToolTip": "TaskAppCrud\\Models\\MyTask.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:48:14.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "TaskAppCrud\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Models\\Category.cs",
+              "RelativeToolTip": "TaskAppCrud\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:47:38.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskAppCrud\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\4lokk\\source\\repos\\TaskAppCrud\\TaskAppCrud\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TaskAppCrud\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:43:14.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Users\4lokk\source\repos\TaskAppCrud\TaskAppCrud\obj\Debug\net8.0\TaskAppCrud.csproj.AssemblyReference.cache
+C:\Users\4lokk\source\repos\TaskAppCrud\TaskAppCrud\obj\Debug\net8.0\TaskAppCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4lokk\source\repos\TaskAppCrud\TaskAppCrud\obj\Debug\net8.0\TaskAppCrud.AssemblyInfoInputs.cache
+C:\Users\4lokk\source\repos\TaskAppCrud\TaskAppCrud\obj\Debug\net8.0\TaskAppCrud.AssemblyInfo.cs
+C:\Users\4lokk\source\repos\TaskAppCrud\TaskAppCrud\obj\Debug\net8.0\TaskAppCrud.csproj.CoreCompileInputs.cache
+C:\Users\4lokk\source\repos\TaskAppCrud\TaskAppCrud\obj\Debug\net8.0\TaskAppCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\4lokk\source\repos\TaskAppCrud\TaskAppCrud\obj\Debug\net8.0\TaskAppCrud.RazorAssemblyInfo.cache
+C:\Users\4lokk\source\repos\TaskAppCrud\TaskAppCrud\obj\Debug\net8.0\TaskAppCrud.RazorAssemblyInfo.cs
